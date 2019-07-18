@@ -1,0 +1,9 @@
+[submodule "ucfs114/www/js"]
+	path = ucfs114/www/js
+	url = https://github.com/Justinguishi/jsReference_new
+[submodule "ucfs114/www/css"]
+	path = ucfs114/www/css
+	url = https://github.com/Justinguishi/cssReference_new
+[submodule "ucfs114/www/images"]
+	path = ucfs114/www/images
+	url = https://github.com/Justinguishi/imagesReference_new
